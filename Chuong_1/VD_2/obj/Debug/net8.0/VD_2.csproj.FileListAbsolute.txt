@@ -1,0 +1,14 @@
+E:\NEW_C#\Chuong_1\VD_2\bin\Debug\net8.0\VD_2.exe
+E:\NEW_C#\Chuong_1\VD_2\bin\Debug\net8.0\VD_2.deps.json
+E:\NEW_C#\Chuong_1\VD_2\bin\Debug\net8.0\VD_2.runtimeconfig.json
+E:\NEW_C#\Chuong_1\VD_2\bin\Debug\net8.0\VD_2.dll
+E:\NEW_C#\Chuong_1\VD_2\bin\Debug\net8.0\VD_2.pdb
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.AssemblyInfoInputs.cache
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.AssemblyInfo.cs
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.csproj.CoreCompileInputs.cache
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.dll
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\refint\VD_2.dll
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.pdb
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\VD_2.genruntimeconfig.cache
+E:\NEW_C#\Chuong_1\VD_2\obj\Debug\net8.0\ref\VD_2.dll

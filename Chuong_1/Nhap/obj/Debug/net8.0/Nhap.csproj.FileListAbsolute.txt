@@ -1,0 +1,14 @@
+E:\NEW_C#\Chuong_1\Nhap\bin\Debug\net8.0\Nhap.exe
+E:\NEW_C#\Chuong_1\Nhap\bin\Debug\net8.0\Nhap.deps.json
+E:\NEW_C#\Chuong_1\Nhap\bin\Debug\net8.0\Nhap.runtimeconfig.json
+E:\NEW_C#\Chuong_1\Nhap\bin\Debug\net8.0\Nhap.dll
+E:\NEW_C#\Chuong_1\Nhap\bin\Debug\net8.0\Nhap.pdb
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.AssemblyInfoInputs.cache
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.AssemblyInfo.cs
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.csproj.CoreCompileInputs.cache
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.dll
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\refint\Nhap.dll
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.pdb
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\Nhap.genruntimeconfig.cache
+E:\NEW_C#\Chuong_1\Nhap\obj\Debug\net8.0\ref\Nhap.dll
